@@ -16,14 +16,29 @@ var disenoPersonajes = [
 // Array de objetos con información de las imágenes de sketches
 var sketches = [
   {
-    src: "dibujo-pato-sentado.jpg",
+    src: "dibujo1.jpg",
     title: "Sketch 1",
     description: "Descripción del sketch 1",
   },
   {
-    src: "images/dibujos/sketches_2.jpg",
+    src: "dibujo2.jpg",
     title: "Sketch 2",
     description: "Descripción del sketch 2",
+  },
+  {
+    src: "dibujo3.jpg",
+    title: "Sketch 1",
+    description: "Descripción del sketch 1",
+  },
+  {
+    src: "dibujo4.jpg",
+    title: "Sketch 2",
+    description: "Descripción del sketch 2",
+  },
+  {
+    src: "dibujo5.jpg",
+    title: "Sketch 1",
+    description: "Descripción del sketch 1",
   },
   // Agrega más objetos de imágenes de sketches según sea necesario
 ];
@@ -31,12 +46,22 @@ var sketches = [
 // Array de objetos con información de las imágenes de concept art
 var conceptArt = [
   {
-    src: "images/dibujos/concept_art_1.jpg",
+    src: "Concept1.jpg",
     title: "Concept Art 1",
     description: "Descripción del concept art 1",
   },
   {
-    src: "images/dibujos/concept_art_2.jpg",
+    src: "Concept2.jpg",
+    title: "Concept Art 2",
+    description: "Descripción del concept art 2",
+  },
+  {
+    src: "Concept3.jpg",
+    title: "Concept Art 1",
+    description: "Descripción del concept art 1",
+  },
+  {
+    src: "Concept4.jpg",
     title: "Concept Art 2",
     description: "Descripción del concept art 2",
   },
@@ -46,27 +71,34 @@ var conceptArt = [
 // Array de objetos con información de las imágenes de animación
 var animacion = [
   {
-    src: "DentalYellowishFreshwatereel-max-1mb.gif",
+    src: "Animacion1.gif",
     title: "Animación 1",
     description: "Descripción de la animación 1",
   },
   {
-    src: "images/blender/animacion_2.gif",
+    src: "Animacion2.gif",
     title: "Animación 2",
     description: "Descripción de la animación 2",
   },
   // Agrega más objetos de imágenes de animación según sea necesario
+  {
+    src: "  Animacion3.gif",
+    title: "Animación 2",
+    description: "Descripción de la animación 2",
+  }
+
+
 ];
 
 // Array de objetos con información de las imágenes de render
 var render = [
   {
-    src: "images/blender/render_1.jpg",
+    src: "render1.png",
     title: "Render 1",
     description: "Descripción del render 1",
   },
   {
-    src: "images/blender/render_2.jpg",
+    src: "render2.jpg",
     title: "Render 2",
     description: "Descripción del render 2",
   },
